@@ -4,6 +4,7 @@ class Products(BaseModel):
     id: int
     name: str
     desc: str
+    price: float
     quant: int
 
     # def __init__(self,id: int,name: str,desc: str,quant: int):

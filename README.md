@@ -14,7 +14,7 @@ npm run dev
 Option B — Using Create React App
 npx create-react-app frontend
 cd frontend
-npm start
+npm run dev
 
 Create FastAPI App (Backend)
 
