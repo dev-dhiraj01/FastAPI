@@ -27,7 +27,7 @@ cd backend
 Create a virtual environment:
 
 python -m venv venv
-source venv/Scripts/activate # Windows
+source venv/Scripts/activate 
 
 Install FastAPI & Uvicorn:
 
